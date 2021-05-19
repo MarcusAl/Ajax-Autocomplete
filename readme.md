@@ -3,7 +3,7 @@
 ![Stars](https://img.shields.io/github/stars/marcusal?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/marcusal//ajax-autocomplete/main?style=for-the-badge)
 
-# Mendio Landing Page
+# Ajax Autocomplete
 In this project, I have created a simple landing page for a adoption service. The design was sketched on Figma, and then developed on HTML/CSS.
 I implemented Javascript to fetch data from an Api Dictionary. The functionality is similar to a search engine. 
 The page is not currently mobile responsive due to time constraints, so it is best used on a laptop or desktop machine.
