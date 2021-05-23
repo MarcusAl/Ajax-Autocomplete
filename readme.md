@@ -7,10 +7,8 @@
 In this project, I have created a simple landing page for a adoption service. The design was sketched on Figma, and then developed on HTML/CSS.
 I implemented Javascript to fetch data from an Api Dictionary. The functionality is similar to a search engine. 
 The page is not currently mobile responsive due to time constraints, so it is best used on a laptop or desktop machine.
-
-# Live Version
-
-- [Site](https://marcusal.github.io/Ajax-Autocomplete/)
+The webpack must first be ran using 'Rake webpack'. Copy and paste the provided local server link in your browser.
+Then open the code in your editor.
 
 <img align="center" alt="Screenshot" height="400px" src="Screenshot 2021-05-19 at 15.27.44.png"/>
 
